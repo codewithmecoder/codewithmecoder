@@ -41,7 +41,7 @@ I'm Ros Sokcheanith a Full Stack Web Developer. I Spend most of time coding outs
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/codewithmecoder/codewithmecoder/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/codewithmecoder/codewithmecoder/blob/main/resumes/Latest%20CV.pdf)
 - :email: yaty1031@gmail.com
 
 <!-- #### Profile Visits
