@@ -21,27 +21,11 @@ I'm Ros Sokcheanith a Full Stack Web Developer. I Spend most of time coding outs
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=grey&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=grey&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=grey&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=grey&logo=node.js&logoColor=3C873A)](#) [![.Net Badge](https://img.shields.io/badge/-.Net-9b59b6?style=for-the-badge&labelColor=grey&logo=dotnet&logoColor=9b59b6)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-3498db?style=for-the-badge&labelColor=grey&logo=flutter&logoColor=3498db)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-red?style=for-the-badge&labelColor=grey&logo=microsoft-sql-server&logoColor=red)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2ecc71?style=for-the-badge&labelColor=grey&logo=mongodb&logoColor=2ecc71)](#) [![Solidity Badge](https://img.shields.io/badge/-Solidity-3498db?style=for-the-badge&labelColor=grey&logo=solidity&logoColor=3498db)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-18dcff?style=for-the-badge&labelColor=grey&logo=docker&logoColor=18dcff)](#)
 
-<!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-
 <br />
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/codewithmecoder/codewithmecoder/blob/main/resumes/Latest%20CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/codewithmecoder/codewithmecoder/blob/main/resumes/Sokcheanith_Ros_Resume.pdf)
 - :email: yaty1031@gmail.com
 
 <!-- #### Profile Visits
