@@ -9,7 +9,7 @@ I'm Ros Sokcheanith a Full Stack Web Developer. I Spend most of time coding outs
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @ABABank
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git add .`
 - 📫 How to reach me: sokcheanith1031@gmail.com.
 - 😄 Pronouns: Sockcheanith.
 - ⚡ Fun fact: I play games and go to the GYM very often.
