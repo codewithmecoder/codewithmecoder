@@ -4,7 +4,7 @@ I'm Ros Sokcheanith a Senior Backend Developer at ABA Bank focus on Digital Bank
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@sokcheanith-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sokcheanith)](https://twitter.com/sokcheanith) [![Linkedin Badge](https://img.shields.io/badge/-Sokcheanith-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ros-sokcheanith-24081423b/) [![Mail Badge](https://img.shields.io/badge/-@nith__0102__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nith__0102__) [![Mail Badge](https://img.shields.io/badge/-Sokcheanith-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yaty1031@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@sokcheanith-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sokcheanith)](https://twitter.com/sokcheanith) [![Linkedin Badge](https://img.shields.io/badge/-Sokcheanith-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ros-sokcheanith-24081423b/) [![Mail Badge](https://img.shields.io/badge/-@nith__0102__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nith__0102__) [![Mail Badge](https://img.shields.io/badge/-Sokcheanith-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sokcheanith1031@gmail.com)
 
 <!-- TODO: Add last video link -->
 
