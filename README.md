@@ -22,33 +22,3 @@ I'm Ros Sokcheanith a Senior Backend Developer at ABA Bank focus on Digital Bank
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2ecc71?style=for-the-badge&labelColor=grey&logo=mongodb&logoColor=2ecc71)](#) [![Solidity Badge](https://img.shields.io/badge/-Solidity-3498db?style=for-the-badge&labelColor=grey&logo=solidity&logoColor=3498db)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-18dcff?style=for-the-badge&labelColor=grey&logo=docker&logoColor=18dcff)](#) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#) [![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)](#) [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](#) [![.NET Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=Blazor&logoColor=gray&label=.NET&labelColor=e9e9e9)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](#) [![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)](#) [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](#) [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](#)
 
 <br />
-
-#### Bizness
-
-- :paperclip: [My Resume/CV](https://github.com/codewithmecoder/codewithmecoder/blob/main/resumes/Sokcheanith_Ros_Resume.pdf)
-- :email: sokcheanith1031@gmail.com
-
-<!-- #### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codewithmecoder.codewithmecoder) -->
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-<!-- I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. -->
-
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=codewithmecoder&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
